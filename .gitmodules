@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "riskweightedassets"]
+	path = riskweightedassets
+	url = https://github.com/rds0001/risk-weighted-assets-r
