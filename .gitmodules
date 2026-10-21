@@ -5,3 +5,6 @@
 [submodule "riskweightedassets"]
 	path = riskweightedassets
 	url = https://github.com/rds0001/risk-weighted-assets-r
+[submodule "solvency2"]
+	path = solvency2
+	url = https://github.com/rds0001/solvency2-r
