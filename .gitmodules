@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "esgcalc"]
+	path = esgcalc
+	url = https://github.com/cran/esgcalc
 [submodule "riskweightedassets"]
 	path = riskweightedassets
 	url = https://github.com/rds0001/risk-weighted-assets-r
