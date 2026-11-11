@@ -11,6 +11,9 @@
 [submodule "esgcalc"]
 	path = esgcalc
 	url = https://github.com/cran/esgcalc
+[submodule "euaiact"]
+	path = euaiact
+	url = https://github.com/rds0001/euaiact-r
 [submodule "riskweightedassets"]
 	path = riskweightedassets
 	url = https://github.com/rds0001/risk-weighted-assets-r
