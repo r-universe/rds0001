@@ -5,6 +5,9 @@
 [submodule "bgbcalc"]
 	path = bgbcalc
 	url = https://github.com/rds0001/bgbcalc-r
+[submodule "bsikompendium"]
+	path = bsikompendium
+	url = https://github.com/cran/bsikompendium
 [submodule "creditratingsystem"]
 	path = creditratingsystem
 	url = https://github.com/cran/creditratingsystem
