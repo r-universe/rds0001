@@ -17,6 +17,9 @@
 [submodule "euaiact"]
 	path = euaiact
 	url = https://github.com/rds0001/euaiact-r
+[submodule "largecardinals"]
+	path = largecardinals
+	url = https://github.com/rds0001/largecardinals-r
 [submodule "riskweightedassets"]
 	path = riskweightedassets
 	url = https://github.com/rds0001/risk-weighted-assets-r
